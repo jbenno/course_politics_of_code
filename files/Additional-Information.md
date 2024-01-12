@@ -22,7 +22,7 @@ Office: Online
 
 - Reading and watching the provided material is required each week in advance.
 - Assigned readings and videos will be discussed in class. Preparedness (i.e. having read/watched the assigned material), active participation, and therefore attendance to the classes will be graded.
-- All assignments are to be submitted via NYU Classes. Submitting just a link is absolutely sufficient unless stated otherwise.
+- All assignments are to be submitted via NYU Brightspace. Submitting just a link is absolutely sufficient unless stated otherwise.
 - The assignments are listed in NYU Brightspace where responses are also submitted. 
 - Please note the dates and times at the link provided at the footer of the schedule pages. 
 
