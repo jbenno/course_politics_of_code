@@ -51,5 +51,6 @@ https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines
   
 ***
 <sup>|[&uarr; Back to course home page](/README.md) |</sup>
+
 <sup> ***[Politics of Code](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno](https://twitter.com/jbenno) - Other classes I teach: [[github.com/jbenno](https://github.com/jbenno/teaching/)</sup>
 
