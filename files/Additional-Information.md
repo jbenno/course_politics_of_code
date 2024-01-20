@@ -7,7 +7,7 @@
 
 Credit Hours: 4   
 Time: See [_Assignments_](#assignments)  
-Classroom: NN  
+Classroom: 370 Jay St Room 407 Loc: Brooklyn Campus  
 Office Hours: Mondays by appointment  
 Office: Online 
 
@@ -24,7 +24,28 @@ Office: Online
 - Assigned readings and videos will be discussed in class. Preparedness (i.e. having read/watched the assigned material), active participation, and therefore attendance to the classes will be graded.
 - All assignments are to be submitted via NYU Brightspace. Submitting just a link is absolutely sufficient unless stated otherwise.
 - The assignments are listed in NYU Brightspace where responses are also submitted. 
-- Please note the dates and times at the link provided at the footer of the schedule pages. 
+- Please note the dates and times at the link provided at the footer of the schedule pages.
+
+## Grading
+
+- Students will receive letter grades A to F.
+- Homework will be graded by submitted (2 points), submitted late (1 point), not submitted (0 points).
+- Talks will be graded 6 points.
+- Total points: 30. Grade roster:
+
+|	Points	|	Grade
+|	---	|	---
+|	30	|	A
+|	29	|	A
+|	28	|	A
+|	27	|	B+
+|	26	|	B
+|	25	|	B-
+|	24	|	C+
+|	23	|	C
+|	22	|	C-
+|	21	|	C-
+|	20	|	F
 
 ## Attendance and Participation
 
