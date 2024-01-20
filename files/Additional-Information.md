@@ -31,11 +31,10 @@ Office: Online
 - Students will receive letter grades A to F.
 - Homework will be graded by submitted (2 points), submitted late (1 point), not submitted (0 points).
 - Talks will be graded 6 points.
-- Total points: 30. Grade roster:
 
 |	Points	|	Grade
 |	---	|	---
-|	30	|	A
+|	30 and above	|	A
 |	29	|	A
 |	28	|	A
 |	27	|	B+
@@ -45,11 +44,11 @@ Office: Online
 |	23	|	C
 |	22	|	C-
 |	21	|	C-
-|	20	|	F
+|	20 and lower	|	F
 
 ## Attendance and Participation
 
-- Attendance is mandatory. Unexcused absences or habitual lateness might result in failing the class.
+- Attendance is mandatory. Two unexcused absences will result in lowering the grade by one half.
 . Being late for more than 15 minutes with no excuse will count as an unexcused absence. Three or more unexcused absences will result in failing the class.
 - Engaging in the class discussion, offering feedback to peers, and being mentally present is a major part of class work.
 - Presenting work and writing in class is required, giving talks on topics is expected. 
