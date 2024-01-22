@@ -11,6 +11,9 @@ Classroom: 370 Jay St Room 407 Loc: Brooklyn Campus
 Office Hours: Mondays by appointment  
 Office: Online 
 
+Please see ITP/IMA's help page for most administrative questions:
+https://itp.nyu.edu/help/
+
 ## Learning Outcomes
 ### Course learning outcomes
 1. Critical reading and watching: understand what’s the intention, what’s the power structure, and unveil the hidden ideologies.
@@ -48,7 +51,7 @@ Office: Online
 
 ## Attendance and Participation
 
-- Attendance is mandatory. Two unexcused absences will result in lowering the grade by one half.
+- Attendance is mandatory. Please see ITP/IMA's [attendance](https://itp.nyu.edu/help/itp-ima-class-attendance-policy/) policy. Two unexcused absences will result in lowering the grade by one half.
 . Being late for more than 15 minutes with no excuse will count as an unexcused absence. Three or more unexcused absences will result in failing the class.
 - Engaging in the class discussion, offering feedback to peers, and being mentally present is a major part of class work.
 - Presenting work and writing in class is required, giving talks on topics is expected. 
