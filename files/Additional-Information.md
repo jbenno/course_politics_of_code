@@ -83,25 +83,15 @@ https://itp.nyu.edu/help/
 | **Points** | **Grade** |
 | --- | --- |
 | 40 and above | A   |
-| --- | --- |
 | Above 38 | A-  |
-| --- | --- |
 | 36  | B+  |
-| --- | --- |
 | 34  | B   |
-| --- | --- |
 | 32  | B-  |
-| --- | --- |
 | 30  | C+  |
-| --- | --- |
 | 28  | C   |
-| --- | --- |
 | 26  | C-  |
-| --- | --- |
 | 20  | C-  |
-| --- | --- |
 | 20 and lower | F   |
-| --- | --- |
 
 ## Wellness, Accommodation and Mental Health Awareness, Academic Integrity, General Academic Policies
 
