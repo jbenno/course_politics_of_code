@@ -6,10 +6,6 @@
 #### Instructor: Joerg Blumtritt
 
 Credit Hours: 4   
-Time: See [_Assignments_](#assignments)  
-Classroom: 370 Jay St Room 407 Loc: Brooklyn Campus  
-Office Hours: Mondays by appointment  
-Office: Online 
 
 Please see ITP/IMA's help page for most administrative questions:
 https://itp.nyu.edu/help/
