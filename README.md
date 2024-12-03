@@ -1,6 +1,6 @@
 # Politics of Code
 ### NYU ITP
-### Spring 2024
+### Spring 2025
 #### Joerg Blumtritt
 [Additional information on assignments, grading, administrative matters](/files/Additional-Information.md)
 
