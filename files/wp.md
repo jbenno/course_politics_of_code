@@ -1,8 +1,7 @@
 <sup>|[&uarr; Back to course home page](/README.md)</sup>  
 # Installing and Running a Wordpress Blog
 
-[Google Spreadsheet with the necessary info](https://drive.google.com/drive/folders/119rMx4bqOXGrslSEo7QjRRo4VlUcvPzA?usp=sharing)
-
+[Google Spreadsheet with the necessary info](https://docs.google.com/spreadsheets/d/118Fu6Br2QPHFbI8Zc8nGP0wuzAbDL70zWBIL62IieTw/edit?usp=sharing)
 
 See also [Wordpress Documentation at https://wordpress.org/support/](https://wordpress.org/support/).
 
