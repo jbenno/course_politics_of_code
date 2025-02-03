@@ -1,19 +1,18 @@
 <sup>|[&uarr; Back to course home page](/README.md)</sup>  
 # Installing and Running a Wordpress Blog
 
-[Google Spreadsheet with the necessary info](https://docs.google.com/spreadsheets/d/118Fu6Br2QPHFbI8Zc8nGP0wuzAbDL70zWBIL62IieTw/edit?usp=sharing)
-
-See also [Wordpress Documentation at https://wordpress.org/support/](https://wordpress.org/support/).
+Statistics on the share of Wordpress in websites: [https://w3techs.com](https://w3techs.com/)
 
 #### Prerequisites
 - FTP client (e.g. FileZilla https://filezilla-project.org or CyberDuck https://cyberduck.io/)
 - Webspace with FTP access (read/write/execute) and PHP 7.x running
 - sql database on the webspace
-
+- 
 #### Webspace
 You can use the domains, webspace, ftp-server and database I will provide in class where X is a number assigned to you:  
-URL `http://cX.f3c.me`  (eg. c1.f3c.me, c2.f3c.me, etc.)
-ftp `ftp.cX.f3c.me`
+  [Google Spreadsheet with the necessary info](https://docs.google.com/spreadsheets/d/118Fu6Br2QPHFbI8Zc8nGP0wuzAbDL70zWBIL62IieTw/edit?usp=sharing)  
+URL `http://cX.f3c.me`  (eg. c1.f3c.me, c2.f3c.me, etc.)  
+ftp `ftp.cX.f3c.me`  
 
 #### Installation
 1. Download the current Wordpress distribution at https://wordpress.org/download/
